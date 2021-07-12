@@ -49,10 +49,15 @@
     }
     </style>
     <div id="mydiv">Under Construction<img src="https://i.imgur.com/By6muTH.gif" style="width:100px;height:100px;"><br>
-        <font
-            style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:<?php echo '#'.$love1;?>; text-shadow: 0pt 0pt 0.9em rgb(250, 75, 212), 0pt 2pt 0.9em rgb(255, 74, 210);">
-            <b>Reload to change color !!!</b>
-        </font>
+        <table>
+            <td><img src="https://i.imgur.com/By6muTH.gif" style="width:200px;height:200px;"></td>
+            <td>Under Construction<br>
+                <font
+                    style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:<?php echo '#'.$love1;?>; text-shadow: 0pt 0pt 0.9em rgb(250, 75, 212), 0pt 2pt 0.9em rgb(255, 74, 210);">
+                    <b>Reload to change color !!!</b>
+            </td>
+            </font>
+        </table>
     </div>
 
 </body>
